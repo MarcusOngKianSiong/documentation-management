@@ -1,0 +1,17 @@
+{
+  "name": "documentation_management_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.23.6",
+    "@babel/traverse": "^7.23.6",
+    "cli-table": "^0.3.11",
+    "test.js": "^1.0.0"
+  }
+}
